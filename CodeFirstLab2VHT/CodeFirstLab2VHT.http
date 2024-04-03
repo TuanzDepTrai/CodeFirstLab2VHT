@@ -1,0 +1,6 @@
+@CodeFirstLab2VHT_HostAddress = http://localhost:5037
+
+GET {{CodeFirstLab2VHT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
